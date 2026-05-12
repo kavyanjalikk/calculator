@@ -1,0 +1,21 @@
+button{
+    padding: 15px;
+    background-color: rgb(244, 208, 115);
+
+}
+input{
+    padding:10px;
+    background-color:aliceblue;
+}
+body{
+    background-color:antiquewhite;
+}
+table{
+    padding:20px;
+    background-color:cadetblue;
+}
+h1{
+    color:black;
+    text-shadow: 3px 3px chartreuse;
+    
+}
